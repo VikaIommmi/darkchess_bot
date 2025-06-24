@@ -1,0 +1,2 @@
+engine/stockfish-linux filter=lfs diff=lfs merge=lfs -text
+engine/stockfish-macos filter=lfs diff=lfs merge=lfs -text
